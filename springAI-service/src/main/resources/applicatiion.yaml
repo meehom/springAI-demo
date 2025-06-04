@@ -1,0 +1,7 @@
+spring:
+  application:
+    name:spring-ai-05-ollama
+ai:
+  ollama:
+    api-host: http://localhost:11434
+    model: qwen2:0.5b
